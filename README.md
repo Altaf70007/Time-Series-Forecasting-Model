@@ -37,9 +37,6 @@ Our mission is to leverage data analytics and predictive modeling to identify th
 
 Contributions are welcome! Feel free to submit pull requests for additional analyses or insights.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## About Us
 
