@@ -33,6 +33,17 @@ Our mission is to leverage data analytics and predictive modeling to identify th
 2. Dive into the Jupyter Notebook for a comprehensive analysis.
 3. Explore the presentation to grasp our findings and recommendations.
 
+## Data Dictionary
+
+| Attribute   | Description                                             |
+| ----------- | ------------------------------------------------------- |
+| Order-Date  | The date on which the order was placed                   |
+| Segment     | The segment to which the product belongs                |
+| Market      | The market to which the customer belongs                |
+| Sales       | Total sales value of the transaction                    |
+| Profit      | Profit made on the transaction                          |
+
+
 ## Contribution
 
 Contributions are welcome! Feel free to submit pull requests for additional analyses or insights.
